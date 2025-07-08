@@ -87,4 +87,4 @@ class FilaAtendimento {
     }
 }
 
-// A justificativa para o uso da técnica de lista simples é que o problema exige uma navegação apenas para um sentido, uma vez que o controle é feito na inserção dos pacientes, e, quando comparada a uma lista dupla, essa lista exige menos da memória. 
+// A justificativa para o uso da técnica de lista simples é que o problema exige uma navegação apenas para um sentido e, quando comparada a uma lista dupla, essa lista exige menos da memória. 
