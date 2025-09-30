@@ -1,8 +1,7 @@
 #ifndef ARVORE_H
 #define ARVORE_H
 
-typedef struct arv
-{
+typedef struct arv {
     char info;
     struct arv *esq;
     struct arv *dir;
